@@ -9,6 +9,11 @@
   "devDependencies": {
     "react-scripts": "^5.0.1"
   },
+  "overrides": {
+    "react-scripts": {
+      "postcss":"8.4.38"
+    }
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
