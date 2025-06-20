@@ -5,6 +5,25 @@ react tutorial (Tic Tac Toe game) at [https://react.dev/learn/tutorial-tic-tac-t
 ## Installation
 
 ```sh
+git clone https://github.com/hofiorg/react_tutorial.git
+cd react_tutorial
 npm install
+```
+
+## Start
+
+```sh
 npm start
+```
+
+## Test
+
+```sh
+npm test
+```
+
+## Build
+
+```sh
+npm run build
 ```
