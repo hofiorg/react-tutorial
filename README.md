@@ -2,6 +2,8 @@
 
 react tutorial (Tic Tac Toe game) at [https://react.dev/learn/tutorial-tic-tac-toe](https://react.dev/learn/tutorial-tic-tac-toe)
 
+- replaced react-scripts with vite
+
 ## Installation
 
 ```sh
