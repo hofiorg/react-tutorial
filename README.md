@@ -1,9 +1,9 @@
 # react_tutorial
 
-![node_js workflow](https://github.com/hofiorg/react_tutorial/actions/workflows/node.js.yml/badge.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Vite](https://img.shields.io/badge/Built%20with-Vite-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
 [![React](https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Built%20with-Vite-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![node_js workflow](https://github.com/hofiorg/react_tutorial/actions/workflows/node.js.yml/badge.svg)
 
 Modified react tutorial (Tic Tac Toe game) from [https://react.dev/learn/tutorial-tic-tac-toe](https://react.dev/learn/tutorial-tic-tac-toe)
 
