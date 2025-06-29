@@ -37,7 +37,7 @@ npm run build
 
 ## 🌐 Related Links
 
-|                              |                                                                               |
+| Name                         | Link                                                                          |
 |------------------------------|-------------------------------------------------------------------------------|
 | React                        | <https://reactjs.org/>                                                        |
 | React Tutorial               | <https://react.dev/learn/tutorial-tic-tac-toe>                                |
